@@ -27,7 +27,7 @@ Steps followed in this project:
 3. Created Measures like total task with respect to various priority.
 4. Created a dashboard using Cards, slicers, bar charts and other visuals.
 
-[Dashboard Link] (https://www.novypro.com/profile_projects/harshvardhan)
+[Dashboard Link](https://www.novypro.com/profile_projects/harshvardhan)
 
 
 
